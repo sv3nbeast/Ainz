@@ -18,4 +18,4 @@ CV：日野聪
 ```
 <code>**安兹擅长收集情报然后击败敌人**</code>
 
-![](./interface.png)
+![](./lnterface.png)
