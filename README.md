@@ -1,8 +1,8 @@
 # Ainz
 
 [![License](https://img.shields.io/badge/Blog-sv3nbeast-green)](https://svenbeast.com)
-[![python](https://img.shields.io/badge/Python-3.8-blue)](https://github.com/sv3nbeast/Ainz)
-[![python](https://img.shields.io/badge/License-GPL--3.0-red)](https://github.com/sv3nbeast/Ainz/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://github.com/sv3nbeast/Ainz)
+[![GPL](https://img.shields.io/badge/License-GPL--3.0-red)](https://github.com/sv3nbeast/Ainz/blob/main/LICENSE)
 
 Ainz旨在为解决目标资产收集问题的一款目标资产全收集工具
 
@@ -18,4 +18,4 @@ CV：日野聪
 ```
 <code>**安兹擅长收集情报然后击败敌人**</code>
 
-![](./run.png)
+![](./nterface.png)
