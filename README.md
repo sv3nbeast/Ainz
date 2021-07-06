@@ -37,4 +37,4 @@ Update:
 * 目前代码完成进度: 75%     (代码写的还算优雅)
 `ps: 暂不打算兼容windows`
 
-![](./Interface.png)
+![](./Interface1.png)
