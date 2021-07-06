@@ -1,6 +1,6 @@
 # Ainz
 
-[![License](https://img.shields.io/badge/Blog-sv3nbeast-green)](https://svenbeast.com)
+[![License](https://img.shields.io/badge/Blog-sv3nbeast-green)](https://www.svenbeast.com)
 [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://github.com/sv3nbeast/Ainz)
 [![GPL](https://img.shields.io/badge/License-GPL--3.0-red)](https://github.com/sv3nbeast/Ainz/blob/main/LICENSE)
 
